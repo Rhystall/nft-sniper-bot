@@ -1,0 +1,18 @@
+{
+  "name": "nft-sniper-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "alchemy-sdk": "^3.6.5",
+    "dotenv": "^17.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
