@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/Status-Experimental-orange.svg)](#disclaimer)
 
-Ultra-fast, single-flight NFT sniper bot built with Node.js for OpenSea + Seaport execution on Ethereum mainnet.
+A metadata scraper and single-flight NFT sniper bot for EVM chains. Features dynamic trait selection and OpenSea Stream API integration to automatically detect and secure undervalued listings.
 
 ## High-Level Overview
 
@@ -145,6 +145,7 @@ flowchart LR
 > **Educational use only.**
 >
 > Running trading bots on mainnet carries real financial risk, including but not limited to:
+>
 > - failed transactions and gas loss,
 > - unfavorable fills or missed opportunities,
 > - smart contract, marketplace, and infrastructure risks.
